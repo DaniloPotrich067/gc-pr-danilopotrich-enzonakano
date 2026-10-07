@@ -1,5 +1,5 @@
-from saudacao import ola_mundo, saudar
-from calculadora import somar, subtrair, media, multiplicar
+from saudacao import ola_mundo, saudar, despedir
+from calculadora import somar, subtrair, media
 
 print(ola_mundo())
 print(saudar("Turma"))
